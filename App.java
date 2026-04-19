@@ -39,8 +39,8 @@ public class App {
         }
     }
 
-
-    System.out.println("great");
+    // Result
+    System.out.println("GREAT!");
     scanner.close();
     }
 }
